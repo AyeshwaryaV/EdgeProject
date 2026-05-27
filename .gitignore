@@ -1,0 +1,11 @@
+*.pyc
+__pycache__/
+*.png
+*.jpg
+*.jpeg
+*.exe
+*.dll
+*.pkl
+.vscode/
+*.log
+test.png

@@ -1,0 +1,8 @@
+Random Forest Deployment Stats
+===================================
+Accuracy: 93.09%
+Trees: 20
+Max Depth: 8
+Features: 6
+Training samples: 15628
+Test samples: 3907
